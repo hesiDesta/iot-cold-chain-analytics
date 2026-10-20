@@ -1,0 +1,9 @@
+sensor_id,zone,warehouse,setpoint_c,limit_c
+S01,Chiller,Gudang A,4.0,8.0
+S02,Chiller,Gudang A,4.0,8.0
+S03,Chiller,Gudang B,4.0,8.0
+S04,Chiller,Gudang B,4.0,8.0
+S05,Frozen,Gudang A,-20.0,-15.0
+S06,Frozen,Gudang A,-20.0,-15.0
+S07,Frozen,Gudang B,-20.0,-15.0
+S08,Frozen,Gudang B,-20.0,-15.0
